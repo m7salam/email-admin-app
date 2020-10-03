@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/12870986/94659227-876b3700-0336-11eb-984b-f2c8fccc131e.png">
+  <img src="https://user-images.githubusercontent.com/12870986/94989419-50e82300-05a7-11eb-99d6-840e66d5e42b.png">
 </p>
 
 :star: Star us on GitHub — it helps!
 
 # Email Administration Application - Written by Java
 
-- it's useful for It administration to auto generate emails for new employes based on their first and last email.
+- it's useful for It administration to auto generate emails for new employees based on their first and last email.
 
 ## Getting Started
 
@@ -17,7 +17,7 @@ These instructions will get you a copy of the project up and running on your loc
 What things you need to install the software and how to install them
 
 ```
-Give examples
+java11
 ```
 
 ### Installing
@@ -50,24 +50,13 @@ Explain what these tests test and why
 Give an example
 ```
 
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
 ## Deployment
 
 Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-- [Java](https://palletsprojects.com/p/click/) - Java 11
-- [PyInquirer](https://github.com/CITGuru/PyInquirer) - Interactive CLI
-- [Pandas](https://pandas.pydata.org/docs/) - To Manuplate the IMDB database
-- [IMDbPY](https://imdbpy.github.io/) - Only used to generate movie summary based on the ID
+- Java 11
 
 ## Contributing
 
